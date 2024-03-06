@@ -1,0 +1,216 @@
+{
+	"_method_": {},
+	"cs.UTest": {
+		"UTest": {
+			"new()": {
+				"Syntax": "**.new**()",
+				"Params": [],
+				"Summary": ""
+			}
+		},
+		"CLI": {
+			"new()": {
+				"Syntax": "**.new**()",
+				"Params": [],
+				"Summary": ""
+			}
+		}
+	},
+	"UTest": {
+		"toBe()": {
+			"Syntax": "**.toBe**( *expectedValue* : Variant ) : cs.UTest.UTest",
+			"Params": [
+				[
+					"expectedValue",
+					"Variant",
+					"->"
+				],
+				[
+					"",
+					"cs.UTest.UTest",
+					"<-"
+				]
+			],
+			"Summary": ""
+		},
+		"show()": {
+			"Syntax": "**.show**()",
+			"Params": [],
+			"Summary": ""
+		},
+		"run()": {
+			"Syntax": "**.run**( *testClasses* : Collection ) : cs.UTest.UTest",
+			"Params": [
+				[
+					"testClasses",
+					"Collection",
+					"->"
+				],
+				[
+					"",
+					"cs.UTest.UTest",
+					"<-"
+				]
+			],
+			"Summary": ""
+		},
+		"expect()": {
+			"Syntax": "**.expect**( *receivedValue* : Variant ) : cs.UTest.UTest",
+			"Params": [
+				[
+					"receivedValue",
+					"Variant",
+					"->"
+				],
+				[
+					"",
+					"cs.UTest.UTest",
+					"<-"
+				]
+			],
+			"Summary": ""
+		},
+		"describe()": {
+			"Syntax": "**.describe**( *description* : Text ) : cs.UTest.UTest",
+			"Params": [
+				[
+					"description",
+					"Text",
+					"->"
+				],
+				[
+					"",
+					"cs.UTest.UTest",
+					"<-"
+				]
+			],
+			"Summary": ""
+		},
+		"createMock()": {
+			"Syntax": "**.createMock**( *formula* : Variant; *resultToRestur* : Variant )",
+			"Params": [
+				[
+					"formula",
+					"Variant",
+					"->"
+				],
+				[
+					"resultToRestur",
+					"Variant",
+					"->"
+				]
+			],
+			"Summary": ""
+		},
+		"resultText()": {
+			"Syntax": "**.resultText**()->resultText : Text",
+			"Params": [
+				[
+					"resultText",
+					"Text",
+					"<-"
+				]
+			],
+			"Summary": ""
+		},
+		"build_HL()": {
+			"Syntax": "**.build_HL**( *list* : Integer )",
+			"Params": [
+				[
+					"list",
+					"Integer",
+					"->"
+				]
+			],
+			"Summary": ""
+		}
+	},
+	"CLI": {
+		"logo()": {
+			"Syntax": "**.logo**()->CLI : cs.UTest.CLI",
+			"Params": [
+				[
+					"CLI",
+					"cs.UTest.CLI",
+					"<-"
+				]
+			],
+			"Summary": ""
+		},
+		"escape()": {
+			"Syntax": "**.escape**( *message* : Text; *style* : Text )->ANSI : Text",
+			"Params": [
+				[
+					"message",
+					"Text",
+					"->"
+				],
+				[
+					"style",
+					"Text",
+					"->"
+				],
+				[
+					"ANSI",
+					"Text",
+					"<-"
+				]
+			],
+			"Summary": ""
+		},
+		"print()": {
+			"Syntax": "**.print**( *message* : Text; *style* : Text )->this : cs.UTest.CLI",
+			"Params": [
+				[
+					"message",
+					"Text",
+					"->"
+				],
+				[
+					"style",
+					"Text",
+					"->"
+				],
+				[
+					"this",
+					"cs.UTest.CLI",
+					"<-"
+				]
+			],
+			"Summary": ""
+		},
+		"version()": {
+			"Syntax": "**.version**()->CLI : cs.UTest.CLI",
+			"Params": [
+				[
+					"CLI",
+					"cs.UTest.CLI",
+					"<-"
+				]
+			],
+			"Summary": ""
+		},
+		"LF()": {
+			"Syntax": "**.LF**()->this : cs.UTest.CLI",
+			"Params": [
+				[
+					"this",
+					"cs.UTest.CLI",
+					"<-"
+				]
+			],
+			"Summary": ""
+		},
+		"CR()": {
+			"Syntax": "**.CR**()->this : cs.UTest.CLI",
+			"Params": [
+				[
+					"this",
+					"cs.UTest.CLI",
+					"<-"
+				]
+			],
+			"Summary": ""
+		}
+	}
+}
