@@ -7,7 +7,7 @@
   ],
   "license": "MIT",
   "repository": "https://github.com/miyako/4d-component-unit-test",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "tool": {
     "platform": "macos",
     "branch": "20.x",
