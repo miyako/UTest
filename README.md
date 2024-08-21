@@ -21,8 +21,10 @@ Run Unit Tests
 
 Based on original work by **Abdelhafid El Hour**.
 
-There is an alternative solution: [vdelachaux/unit-tests-with-Classes](https://github.com/vdelachaux/unit-tests-with-Classes)
-
 ## Documentation
 
 [`UTest`](https://github.com/miyako/unit-test/blob/main/unit-test/Documentation/Classes/UTest.md)
+
+## Similar Projects
+
+* [vdelachaux/unit-tests-with-Classes](https://github.com/vdelachaux/unit-tests-with-Classes)
