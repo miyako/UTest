@@ -13,7 +13,7 @@ Run Unit Tests
 	"dependencies": {
 		"unit-test": {
 			"github": "miyako/unit-test",
-			"version": "^0.0.6"
+			"version": "^0.0.10"
 		}
 	}
 }
