@@ -2,4 +2,3 @@ unit-test/userPreferences.*
 unit-test/Project/DerivedData/*
 unit-test/Data/*
 unit-test/Settings/backup.4DSettings
-unit-test/Project/Sources/settings.4DSettings
