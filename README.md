@@ -1,4 +1,23 @@
-Component to run unit tests on classes.
+![version](https://img.shields.io/badge/version-20%20R6%2B-E23089)
+[![license](https://img.shields.io/github/license/miyako/unit-test)](LICENSE)
+![downloads](https://img.shields.io/github/downloads/miyako/unit-test/total)
+
+# UnitTest
+
+Run Unit Tests
+
+## dependencies.json
+
+```json
+{
+	"dependencies": {
+		"unit-test": {
+			"github": "miyako/unit-test",
+			"version": "^0.0.6"
+		}
+	}
+}
+```
 
 Based on original work by **Abdelhafid El Hour**.
 
