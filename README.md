@@ -27,4 +27,4 @@ There is an alternative solution: [vdelachaux/unit-tests-with-Classes](https://g
 
 ## Documentation
 
-[`UTest`](https://github.com/miyako/unit-test/blob/main/UTest/Documentation/Classes/UTest.md)
+[`UTest`](https://github.com/miyako/unit-test/blob/main/unit-test/Documentation/Classes/UTest.md)
