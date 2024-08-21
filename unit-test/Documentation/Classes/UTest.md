@@ -55,7 +55,7 @@ You can specify the classes by passing a filtered collection. Omitting the colle
 ```4d
 var $UTest : cs.UTest.UTest
 $UTest:=cs.UTest.UTest.new()
-$UTest.run(OB Entries(cs)).
+$UTest.run(OB Entries(cs))
 ```
 
 **Note**: `DataStore`, `DataClass`, `Entity`, `EntitySelection` classes are always excluded.
