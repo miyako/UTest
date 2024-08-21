@@ -50,7 +50,7 @@ jobs:
         id: version
         uses: miyako/4D/.github/actions/package-set-version@v1
         with:
-          mode: ${{ inputs.mode }}
+          mode: ${{ env.mode }}
 
       - name: get tool version
         id: tool
