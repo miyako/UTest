@@ -28,3 +28,4 @@ Based on original work by **Abdelhafid El Hour**.
 ## Similar Projects
 
 * [vdelachaux/unit-tests-with-Classes](https://github.com/vdelachaux/unit-tests-with-Classes)
+* [AJARProject/AJ_Tools_UnitTest](https://github.com/AJARProject/AJ_Tools_UnitTest)
