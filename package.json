@@ -1,18 +1,18 @@
 {
-  "name": "example",
-  "description": "Component to run unit tests on classes",
+  "name": "UnitTest",
+  "description": "Run Unit Tests",
   "authors": [
     "Abdelhafid El Hour <Abdelhafid.ELHOUR@4d.com>",
     "Keisuke Miyako <keisuke.miyako@4d.com>"
   ],
   "license": "MIT",
-  "repository": "https://github.com/miyako/4d-component-unit-test",
-  "version": "0.0.8",
+  "repository": "https://github.com/miyako/unit-test",
+  "version": "0.0.9",
   "tool": {
     "platform": "macos",
-    "branch": "20.x",
-    "version": "20.2",
-    "build": "latest",
-    "arch": "x86"
+    "branch": "20%20Rx",
+    "version": "20%20R6",
+    "build": "100154",
+    "arch": "arm"
   }
 }
