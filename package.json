@@ -7,12 +7,12 @@
   ],
   "license": "MIT",
   "repository": "https://github.com/miyako/unit-test",
-  "version": "0.0.11",
+  "version": "20R6.11",
   "tool": {
     "platform": "macos",
     "branch": "20%20Rx",
     "version": "20%20R6",
-    "build": "100154",
+    "build": "latest",
     "arch": "arm"
   }
 }
