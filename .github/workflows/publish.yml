@@ -21,7 +21,7 @@ on:
           required: true
 
 env: 
-  project_path: UnitTest/Project/UnitTest.4DProject
+  project_path: UTest/Project/UTest.4DProject
   
 jobs:
 
