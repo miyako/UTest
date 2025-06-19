@@ -11,9 +11,9 @@ Run Unit Tests
 ```json
 {
 	"dependencies": {
-		"unit-test": {
-			"github": "miyako/unit-test",
-			"version": "^0.0.10"
+		"UnitTest": {
+			"github": "miyako/UnitTest",
+			"version": "latest"
 		}
 	}
 }
