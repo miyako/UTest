@@ -23,7 +23,7 @@ Based on original work by **Abdelhafid El Hour**.
 
 ## Documentation
 
-[`UTest`](https://github.com/miyako/unit-test/blob/main/unit-test/Documentation/Classes/UTest.md)
+[`UTest`](https://github.com/miyako/unit-test/blob/main/UTest/Documentation/Classes/UTest.md)
 
 ## Similar Projects
 
