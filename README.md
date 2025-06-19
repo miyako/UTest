@@ -1,8 +1,8 @@
 ![version](https://img.shields.io/badge/version-20%20R6%2B-E23089)
-[![license](https://img.shields.io/github/license/miyako/unit-test)](LICENSE)
-![downloads](https://img.shields.io/github/downloads/miyako/unit-test/total)
+[![license](https://img.shields.io/github/license/miyako/UTest)](LICENSE)
+![downloads](https://img.shields.io/github/downloads/miyako/UTest/total)
 
-# UnitTest
+# UTest
 
 Run Unit Tests
 
@@ -11,8 +11,8 @@ Run Unit Tests
 ```json
 {
 	"dependencies": {
-		"UnitTest": {
-			"github": "miyako/UnitTest",
+		"UTest": {
+			"github": "miyako/UTest",
 			"version": "latest"
 		}
 	}
